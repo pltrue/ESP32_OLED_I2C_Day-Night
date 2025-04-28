@@ -42,7 +42,6 @@
 - [`Adafruit_GFX`](https://github.com/adafruit/Adafruit-GFX-Library)
 - [`Adafruit_SSD1306`](https://github.com/adafruit/Adafruit_SSD1306)
 - [`NTPClient`](https://github.com/arduino-libraries/NTPClient)
-- [`WiFi`](มากับ ESP32 โดยตรงแล้ว ไม่ต้องติดตั้งเพิ่ม)
 
 ---
 
